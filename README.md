@@ -1,1 +1,1 @@
-[i cant come to the office today because...](jonpepler.github.io/icantcometotheofficetodaybecause)
+[i cant come to the office today because...](https://jonpepler.github.io/icantcometotheofficetodaybecause)
