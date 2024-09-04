@@ -8,12 +8,7 @@ export default function Home() {
 
   const newExcuse = () => setExcuse(createExcuse());
 
-  useEffect(() => {
-    if (typeof window !== "undefined") {
-      window.addEventListener("beforeunload", newExcuse);
-      return () => window.removeEventListener("beforeunload", newExcuse);
-    }
-  }, []);
+  useEffect(newExcuse, []);
 
   return (
     <main className={styles.main}>
