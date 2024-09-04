@@ -57,5 +57,6 @@
   "i found out my {{relation}} is a {{occupation}}",
   "i need to attend the {{activity}} {{event}}",
   "my {{relation}} wont leave",
-  "im preparing for a {{event}}"
+  "im preparing for a {{event}}", 
+  "i dont want to" 
 ]
