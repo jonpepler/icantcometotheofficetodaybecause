@@ -1,8 +1,8 @@
 [
-  "sick after eating some bad {{food}}",
-  "lost at {{location}} {{event}}",
-  "lost at {{location}}",
-  "feeling {{emotion}} and needs some support",
+  "got sick after eating some bad {{food}}",
+  "might be lost at {{location}} {{event}}",
+  "is lost at {{location}}",
+  "is feeling {{emotion}} and needs some support",
   "got stuck in {{location}}",
   "chewed on something they shouldnt have",
   "got into a fight with a {{pet}}",
