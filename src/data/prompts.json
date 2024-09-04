@@ -10,7 +10,7 @@
   "theres been a {{event}}",
   "my {{relation}} had a {{event}}",
   "we had an unexpected {{event}} at {{location}}",
-  "my {{pet}} is {{petProblem}}",
+  "my {{pet}} {{petProblem}}",
   "my {{pet}} needs to go to {{location}}",
   "the {{transportMode}} is {{transportIssue}}",
   "the {{transportMode}} isnt running",
