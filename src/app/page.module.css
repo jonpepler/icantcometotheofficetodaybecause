@@ -1,37 +1,9 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  margin: 15px;
-}
-
-.footer {
-  position: absolute;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  margin: 15px 15px;
-  width: 98vw;
-  bottom: 0;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   height: 100vh;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-}
+  justify-content: center;
+  align-items: center;
 
-.button {
-  padding: 0px 10px;
-  font-size: 30px;
-}
-
-.menuContainer {
-  position:absolute;
-  top: 0;
-  left: 0;
   margin: 15px;
 }

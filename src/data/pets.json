@@ -1,0 +1,13 @@
+[
+  "cat", "cat, {{name}}",
+  "dog", "dog, {{name}}",
+  "fish", "fish, {{name}}",
+  "lizard",  "lizard, {{name}}",
+  "hamster",  "hamster, {{name}}",
+  "snake",  "snake, {{name}}",
+  "parrot",  "parrot, {{name}}",
+  "ferret",  "ferret, {{name}}",
+  "rabbit",  "rabbit, {{name}}",
+  "turtle",  "turtle, {{name}}",
+  "bird",  "bird, {{name}}"
+]
