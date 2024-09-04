@@ -1,0 +1,35 @@
+{
+  "name": "icantcometotheofficebecause",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18",
+    "react-full-screen": "^1.1.1",
+    "react-timer-hook": "^3.0.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@next/eslint-plugin-next": "^14.2.5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.35.0",
+    "globals": "^15.9.0",
+    "prettier": "3.3.3",
+    "typescript": "^5",
+    "typescript-eslint": "^8.1.0"
+  }
+}
